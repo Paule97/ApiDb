@@ -1,6 +1,9 @@
 a {
     text-decoration: none;
 }
+body {
+    margin: 1%;
+}
 .row {
     max-width: 99vw;
 }
@@ -26,6 +29,8 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+
 
 .uploader > p {
     font-size: 1.4rem;
@@ -54,10 +59,5 @@ li {
 
 .breadcrumb-item {
     cursor: pointer;
-}
-
-#carte {
-    height: 400px;  /* The height is 400 pixels */
-    width: 100%;  /* The width is the width of the web page */
 }
 
