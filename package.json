@@ -1,0 +1,17 @@
+{
+  "name": "File-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "dropbox": "^4.0.28",
+    "node-fetch": "^2.6.0"
+  }
+}
